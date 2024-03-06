@@ -15,4 +15,5 @@
 .DS_Store
 .prettierignore
 
+# Avoid accidental upload of the Sketch and Figma design files
 blog-preview-card-figma
